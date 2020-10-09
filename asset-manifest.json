@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/anarodrigues/testFirebaseDB.git/static/css/main.752c43f0.chunk.css",
-    "main.js": "/anarodrigues/testFirebaseDB.git/static/js/main.29695853.chunk.js",
-    "main.js.map": "/anarodrigues/testFirebaseDB.git/static/js/main.29695853.chunk.js.map",
-    "runtime-main.js": "/anarodrigues/testFirebaseDB.git/static/js/runtime-main.834fd8d4.js",
-    "runtime-main.js.map": "/anarodrigues/testFirebaseDB.git/static/js/runtime-main.834fd8d4.js.map",
-    "static/js/2.d3f894ef.chunk.js": "/anarodrigues/testFirebaseDB.git/static/js/2.d3f894ef.chunk.js",
-    "static/js/2.d3f894ef.chunk.js.map": "/anarodrigues/testFirebaseDB.git/static/js/2.d3f894ef.chunk.js.map",
-    "index.html": "/anarodrigues/testFirebaseDB.git/index.html",
-    "precache-manifest.a451b04f837001a977dba82547af2222.js": "/anarodrigues/testFirebaseDB.git/precache-manifest.a451b04f837001a977dba82547af2222.js",
-    "service-worker.js": "/anarodrigues/testFirebaseDB.git/service-worker.js",
-    "static/css/main.752c43f0.chunk.css.map": "/anarodrigues/testFirebaseDB.git/static/css/main.752c43f0.chunk.css.map",
-    "static/js/2.d3f894ef.chunk.js.LICENSE.txt": "/anarodrigues/testFirebaseDB.git/static/js/2.d3f894ef.chunk.js.LICENSE.txt"
+    "main.css": "/testFirebaseDB/static/css/main.752c43f0.chunk.css",
+    "main.js": "/testFirebaseDB/static/js/main.5661bd5d.chunk.js",
+    "main.js.map": "/testFirebaseDB/static/js/main.5661bd5d.chunk.js.map",
+    "runtime-main.js": "/testFirebaseDB/static/js/runtime-main.71a6631f.js",
+    "runtime-main.js.map": "/testFirebaseDB/static/js/runtime-main.71a6631f.js.map",
+    "static/js/2.6fcaadf5.chunk.js": "/testFirebaseDB/static/js/2.6fcaadf5.chunk.js",
+    "static/js/2.6fcaadf5.chunk.js.map": "/testFirebaseDB/static/js/2.6fcaadf5.chunk.js.map",
+    "index.html": "/testFirebaseDB/index.html",
+    "precache-manifest.d0d26347e70a8fc6feb282d4f7d32fb8.js": "/testFirebaseDB/precache-manifest.d0d26347e70a8fc6feb282d4f7d32fb8.js",
+    "service-worker.js": "/testFirebaseDB/service-worker.js",
+    "static/css/main.752c43f0.chunk.css.map": "/testFirebaseDB/static/css/main.752c43f0.chunk.css.map",
+    "static/js/2.6fcaadf5.chunk.js.LICENSE.txt": "/testFirebaseDB/static/js/2.6fcaadf5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.834fd8d4.js",
-    "static/js/2.d3f894ef.chunk.js",
+    "static/js/runtime-main.71a6631f.js",
+    "static/js/2.6fcaadf5.chunk.js",
     "static/css/main.752c43f0.chunk.css",
-    "static/js/main.29695853.chunk.js"
+    "static/js/main.5661bd5d.chunk.js"
   ]
 }

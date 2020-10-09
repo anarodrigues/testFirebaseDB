@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb30c43230720e9a6ef788a2b839d1f3",
+    "revision": "049b667f68eb427ed2999ee7d4a5cb72",
     "url": "/anarodrigues/testFirebaseDB.git/index.html"
   },
   {
-    "revision": "cf2bce3a04472a07339f",
+    "revision": "f1aaccafb4358f2521e8",
     "url": "/anarodrigues/testFirebaseDB.git/static/css/main.752c43f0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anarodrigues/testFirebaseDB.git/static/js/2.d3f894ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf2bce3a04472a07339f",
-    "url": "/anarodrigues/testFirebaseDB.git/static/js/main.9a4cf353.chunk.js"
+    "revision": "f1aaccafb4358f2521e8",
+    "url": "/anarodrigues/testFirebaseDB.git/static/js/main.29695853.chunk.js"
   },
   {
     "revision": "b8abe2b02c201bdcdb39",

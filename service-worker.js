@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/anarodrigues/testFirebaseDB.git/precache-manifest.270e212bbf674a88233dd70a63389eca.js"
+  "/anarodrigues/testFirebaseDB.git/precache-manifest.a451b04f837001a977dba82547af2222.js"
 );
 
 self.addEventListener('message', (event) => {
